@@ -1,0 +1,14 @@
+#input
+{
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+}
+
+#pushed, #checkbox 
+{
+    margin-left: 2rem;
+}
+
+body{
+    background:linear-gradient(90deg,lightgrey,rgb(80, 77, 77));
+}
